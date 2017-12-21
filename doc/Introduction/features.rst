@@ -9,7 +9,7 @@
 
 
 ============ 
-Featureson
+Features
 ============
 
 .. raw:: html
